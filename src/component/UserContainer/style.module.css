@@ -1,0 +1,15 @@
+.wrapper{
+    margin: auto;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+.container{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    background-color: antiquewhite;
+    padding: 15px;
+    border-radius: 8px;
+}
